@@ -69,7 +69,7 @@ Currently, I manage production-grade CloudTririga infrastructure across GCP limi
 
 ### 🤝 Get In Touch
 * **Email:** [manpreetsinghvedi15@gmail.com](mailto:manpreetsinghvedi15@gmail.com)
-* **LinkedIn:** [linkedin.com/in/manpreetsinghvedi](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/manpreetsingh-vedi](https://linkedin.com)
 * **Naukri Profile:** [naukri.com/profile/manpreetsinghvedi](https://naukri.com)
 
 *“If it isn't documented or automated, it doesn't exist.”*
