@@ -61,9 +61,8 @@ Currently, I manage production-grade CloudTririga infrastructure across GCP limi
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Manpreetsingh-Vedi&show_icons=true&theme=tokyonight&count_private=true" alt="Manpreet's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manpreetsingh-Vedi&layout=compact&theme=tokyonight" alt="Manpreet's Top Languages" />
+  <img src="https://raw.githubusercontent.com/Manpreetsingh-Vedi/Manpreetsingh-Vedi/main/github-metrics.svg" alt="Manpreet's GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/Manpreetsingh-Vedi/Manpreetsingh-Vedi/main/github-languages.svg" alt="Manpreet's Top Languages" width="48%" />
 </p>
 
 ---
